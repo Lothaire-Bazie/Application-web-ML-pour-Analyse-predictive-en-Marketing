@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    lothairebazie:
+      email: jsmith@gmail.com
+      name: Lothaire BAZIE
+      password: $2b$12$JrGSLlZKEWlLZ.3olpMqLOKR6g8Sw4knRPg3VCDQ1KQCDmBcLLv9i # mots de passe clair (abc)
+    ikdholding:
+      email: ikdholding@outlook.com
+      name: ikd holding
+      password: $2b$12$Xm0qogr74I0qNtHsoUmxxOkwRJ5NVmF4w6q4PNTnFDhSsSbVGiBEa # (test) To be replaced with hashed password
+cookie:
+  expiry_days: 60
+  key: some_signature_key # Must be string
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com

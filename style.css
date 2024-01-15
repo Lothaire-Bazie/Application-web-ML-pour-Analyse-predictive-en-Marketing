@@ -1,0 +1,6 @@
+body {
+    background-image: url('https://css-tricks.com/examples/ImageToBackgroundImage/');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
