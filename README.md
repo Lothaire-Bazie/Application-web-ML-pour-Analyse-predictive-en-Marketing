@@ -12,7 +12,9 @@ Ce travail a pour objectif de présenter une solution innovante et pratique pour
 
 Le processus du travail débute par le prétraitement des trois bases de données brutes sur lesquelles seront faites la segmentation et les prévisions. 
 -Base de données clients
+
 -Base de données des prestations
+
 -Base de données pour le CA et l’affluence réalisé journalièrement.
 
 
