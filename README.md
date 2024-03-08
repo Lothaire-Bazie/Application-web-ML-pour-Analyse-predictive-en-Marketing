@@ -1,6 +1,7 @@
 # PROBLEMATIQUE METIER : 
 
 L'entreprise évolue dans le domaine de la beauté; Après moult réflexions, le service marketing a émis dans un premier temps, le besoin de pouvoir anticiper les besoins de sa clientèle en amont afin de se préparer sur le volet des ressources humaines et sur le volet de gestion de stocks de produits; Secondo,  il était question de mieux comprendre la diversité de son marché cible, de détecter le comportement d'achats de sa clientèle.
+
 L'entreprise à travers donc le service marketing désire donc obtenir une interface à travers laquelle il pourra faire ses prévisions de CA, de trafic client mensuellement mais aussi pouvoir diviser sa clientèle en des segments suivants des indicateurs marketing.
 
 
